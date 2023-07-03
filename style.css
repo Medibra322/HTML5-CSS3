@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 8rem;
+    background-color: rgb(87, 173, 179);
+}
+
+.card{
+    width: 20rem;
+}
+
+.btn{
+    color: black;
+}
+
+img{
+    height: 15rem;
+}
+.login{
+    border: 0.1rem solid black;
+    padding: 2rem;
+    margin: 3rem;
+}
+
+.title{
+    text-align: center;
+    margin: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
